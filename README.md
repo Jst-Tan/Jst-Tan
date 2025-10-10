@@ -4,6 +4,10 @@
   </ul>
 </div>
 
+<img align="center" 
+     src="https://komarev.com/ghpvc/?username=Jst-Tan&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+     alt="views count" />
+
 - 👨‍💻 I am an indie hacker since 2024.
 - 🏗️ I am building in public on Bluesky & X.
 - 🌟 I am interested in blockchain,
