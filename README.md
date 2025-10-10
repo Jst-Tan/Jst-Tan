@@ -28,8 +28,6 @@ Donation                 | [![BuyMeACoffee](https://img.shields.io/badge/Buy%20M
 
 ## Stats 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebaf96&hide=stars,issues&count_private=true&show_icons=true&theme=gotham"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jst-tan&hide=stars,issues&count_private=true&show_icons=true&theme=gotham"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jst-Tan&layout=compact&theme=gotham" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
